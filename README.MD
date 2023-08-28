@@ -1,6 +1,5 @@
-# 💫 About Me:
-¡Hola, soy Gabi! 😄<br><br>Desarrolladora Full Stack y Técnica en Programación con un amplio abanico de experiencia:<br><br>👩‍💻 Tecnologías y Herramientas: MongoDB, Express, React/React Native, Node.js, HTML, CSS (Bootstrap, FlexBox, Tailwind), JavaScript, Git, GitHub, C, C#, C++, Arduino y Metodología Agile.<br><br>Mi diversidad de habilidades me permite abordar una amplia gama de proyectos, desde el desarrollo de software hasta la creación de prototipos electrónicos y sistemas integrados.<br><br>Soy apasionada por el aprendizaje constante, lo que me facilita la adaptación a los cambios en las nuevas tecnologías. Mi ética de trabajo y mi habilidad para mantenerme al día con las últimas tendencias me convierten en una profesional versátil.<br><br>La empatía es una parte central de mi enfoque. Creo en la construcción de relaciones sólidas y en la colaboración efectiva. Mi habilidad para conectar con personas me permite trabajar en equipo de manera armoniosa.<br><br>Estoy emocionada por explorar las oportunidades que el futuro tiene reservado para mí. Estoy segura de que puedo contribuir con mis habilidades y ética de trabajo a cualquier proyecto que se me presente.<br><br>¡No dudes en ponerte en contacto conmigo para colaborar en la creación de proyectos asombrosos! 👩‍💻💫
-
+# ¡Hola, soy Gabi! 😄
+Desarrolladora Full Stack y Técnica en Programación 👩‍💻💫
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gabriela-zarratea-7a599514a) 
