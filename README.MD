@@ -1,5 +1,5 @@
-# ¡Hola, soy Gabi! 😄
-Desarrolladora Full Stack y Técnica en Programación 👩‍💻💫
+# Hi, I'm Gabi! 😄
+Full Stack Developer and Programming Technician 👩‍💻💫
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gabriela-zarratea-7a599514a) 
